@@ -9,9 +9,9 @@
 
 <br />
 
-Hi, I'm [Juhan Hossain](https://www.linkedin.com/in/juhan-hossain/), a passionate Web developer and a Competitive Programmer from Baangladesh.
+<p align="left">Hi, I'm [Juhan Hossain](https://www.linkedin.com/in/juhan-hossain/), a passionate Web developer and a Competitive Programmer from Baangladesh.
 I am also an open-source enthusiast and maintainer.
-<br>I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+<br>I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
 ### To find out my problem solving experience [Click Here](https://www.stopstalk.com/user/profile/Juhan_hossain)
 
