@@ -15,11 +15,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> -->
   <br>
-- 💬 Ask me about anything, I am happy to help
+💬 Ask me about anything, I am happy to help
 <br>
-- 📫 How to reach me: <a href="Juhanhossain@gmail.com" style="background-color:darkorange;">Juhan Hossain</a>
+📫 How to reach me: <a href="Juhanhossain@gmail.com" style="background-color:darkorange;">Juhan Hossain</a>
 <br>
-- 📝 <a href="https://cutt.ly/3vAqeTW" style="background-color:darkorange;">Resume</a>
+📝 <a href="https://cutt.ly/3vAqeTW" style="background-color:darkorange;">Resume</a>
 <br>
 **Languages and Tools:**  
 <br>
