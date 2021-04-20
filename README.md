@@ -3,7 +3,7 @@
 
 - :zap: I’m currently working on my own idea project :wink:
 - :zap: I’m currently learning JavaScript, Angular Js
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" width="500" height="320" />
 ### Connect with me:
 
 <a href="https://twitter.com/Juhan57846908">
