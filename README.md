@@ -1,4 +1,12 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
+
+<p align="left">Hi, I'm <a href="https://www.linkedin.com/in/juhan-hossain/" style="background-color:darkorange;">Juhan Hossain</a>, a passionate Web developer and a Competitive Programmer from Baangladesh.</p>
+
+- :zap: I’m currently working on my idea project :wink:
+- :zap: I’m currently learning JavaScript, Angular Js
+
+### Connect with me:
 
 <a href="https://twitter.com/Juhan57846908">
   <img align="left" alt="Juhan Hossain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -6,12 +14,7 @@
 <a href="https://www.linkedin.com/in/juhan-hossain/">
   <img align="left" alt="Juhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br />
-
-<p align="left">Hi, I'm <a href="https://www.linkedin.com/in/juhan-hossain/" style="background-color:darkorange;">Juhan Hossain</a>, a passionate Web developer and a Competitive Programmer from Baangladesh.
-I am also an open-source enthusiast and maintainer.
-<br>I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
 ### To find out my problem solving experience [Click Here](https://www.stopstalk.com/user/profile/Juhan_hossain)
 
@@ -42,7 +45,7 @@ I am also an open-source enthusiast and maintainer.
 <img height="30" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img height="30" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
-
+<br />
 
 [![Juhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan-Hossain&show_icons=true&theme=radical)](https://github.com/Juhan-Hossain/github-readme-stats)
 
