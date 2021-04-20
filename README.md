@@ -17,7 +17,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br>
 - 💬 Ask me about anything, I am happy to help
 <br>
-- 📫 How to reach me: [!@JuhanHossain](Juhanhossain@gmail.com)<br>
+- 📫 How to reach me: <a href="Juhanhossain@gmail.com" style="background-color:darkorange;">Juhan Hossain</a>
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+this is something) `#c5f015`
+<br>
 - 📝 <a href="https://cutt.ly/3vAqeTW" style="background-color:darkorange;">Resume</a>
 <br>
 **Languages and Tools:**  
