@@ -9,13 +9,12 @@
 
 <br />
 
-Hi, I'm [Juhan Hossain](https://www.linkedin.com/in/juhan-hossain/), a passionate Web developer and a Competitive Programmer from Baangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hi, I'm [Juhan Hossain](https://www.linkedin.com/in/juhan-hossain/), a passionate Web developer and a Competitive Programmer from Baangladesh.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 ### To find out my problem solving experience [Click Here](https://www.stopstalk.com/user/profile/Juhan_hossain)
 
 <!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> -->
-  <br>
 💬 Ask me about anything, I am happy to help
 <br>
 📫 How to reach me: <a href="Juhanhossain@gmail.com" style="background-color:darkorange;">Juhan Hossain</a>
