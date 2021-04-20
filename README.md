@@ -44,6 +44,6 @@
 
 
 
-<p align="center"></p>
+<p align="center">📈 My GitHub Stats</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Juhan-Hossain&show_icons=true&theme=gotham" alt="Juhan" />
