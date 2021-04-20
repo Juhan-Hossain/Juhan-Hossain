@@ -21,7 +21,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br>
 - 📝 <a href="https://cutt.ly/3vAqeTW" style="background-color:darkorange;">Resume</a>
 <br>
-**Languages and Tools:**  
+ 
 <br>
 <div class="myDiv" style="background-color:purple; width:170px">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" ></code>
@@ -30,12 +30,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhan-Hossain&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhan-Hossain&repo=convoychat" />
-</a>
+<br>
+[![Juhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan-Hossain&show_icons=true&theme=radical)](https://github.com/Juhan-Hossain/github-readme-stats)
 
 <!-- TODO-IST:END -->
 
