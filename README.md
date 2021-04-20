@@ -9,7 +9,7 @@
 
 <br />
 
-<p align="left">Hi, I'm [Juhan Hossain](https://www.linkedin.com/in/juhan-hossain/), a passionate Web developer and a Competitive Programmer from Baangladesh.
+<p align="left">Hi, I'm <a href="https://www.linkedin.com/in/juhan-hossain/" style="background-color:darkorange;">Juhan Hossain</a>, a passionate Web developer and a Competitive Programmer from Baangladesh.
 I am also an open-source enthusiast and maintainer.
 <br>I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
