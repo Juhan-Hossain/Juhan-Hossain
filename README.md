@@ -43,7 +43,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img height="30" align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img height="30" align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
-
+<br> <br>
 [![Juhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan-Hossain&show_icons=true&theme=radical)](https://github.com/Juhan-Hossain/github-readme-stats)
 
 
