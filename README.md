@@ -18,7 +18,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, I am happy to help
 <br>
 - 📫 How to reach me: <a href="Juhanhossain@gmail.com" style="background-color:darkorange;">Juhan Hossain</a>
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+this is something) `#c5f015`
 <br>
 - 📝 <a href="https://cutt.ly/3vAqeTW" style="background-color:darkorange;">Resume</a>
 <br>
@@ -32,7 +31,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan-Hossain)](https://github.com/Juhan-Hossain/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan-Hossain&show_icons=true&theme=radical)](https://github.com/Juhan-Hossain/github-readme-stats)
 
 
 <!-- TODO-IST:END -->
