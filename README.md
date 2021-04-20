@@ -3,7 +3,7 @@
 
 - :zap: I’m currently working on my own idea project :wink:
 - :zap: I’m currently learning JavaScript, Angular Js
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" width="500" height="320" />
 ### Connect with me:
 
 <a href="https://twitter.com/Juhan57846908">
@@ -16,7 +16,6 @@
 
 ### To find out my problem solving experience [Click Here](https://www.stopstalk.com/user/profile/Juhan_hossain)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" width="500" height="320" />
 💬 Ask me about anything, I am happy to help
 <br>
 📫 How to reach me: <a href="Juhanhossain@gmail.com" style="background-color:darkorange;">Juhan Hossain</a>
