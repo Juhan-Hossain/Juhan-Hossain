@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left">Hi, I'm <a href="https://www.linkedin.com/in/juhan-hossain/" style="background-color:darkorange;">Juhan Hossain</a>, a passionate Web developer and a Competitive Programmer from Bangladesh.</p>
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" />
+<img height="80%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" />
 
 - :zap: I’m currently working on my idea project :wink:
 - :zap: I’m currently learning JavaScript, Angular Js
