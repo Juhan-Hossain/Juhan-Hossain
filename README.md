@@ -46,12 +46,4 @@
 <br />
 
 [![Juhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan-Hossain&show_icons=true&theme=radical)](https://github.com/Juhan-Hossain/github-readme-stats)
-
-
-<!-- TODO-IST:END -->
-
-
-<!-- 📈 My GitHub Stats -->
-
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhan-Hossain&layout=compact)](https://github.com/Juhan-Hossain/github-readme-stats)
