@@ -12,14 +12,12 @@
 Hi, I'm [Juhan Hossain](https://www.linkedin.com/in/juhan-hossain/), a passionate Web developer and a Competitive Programmer from Baangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-
-<!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" /> -->
   <br>
-- 💬 Ask me about anything, I am happy to help
+ 💬 Ask me about anything, I am happy to help
 <br>
-- 📫 How to reach me: <a href="Juhanhossain@gmail.com" style="background-color:darkorange;">Juhan Hossain</a>
+ 📫 How to reach me: <a href="Juhanhossain@gmail.com" style="background-color:darkorange;">Juhan Hossain</a>
 <br>
-- 📝 <a href="https://cutt.ly/3vAqeTW" style="background-color:darkorange;">Resume</a>
+ 📝 <a href="https://cutt.ly/3vAqeTW" style="background-color:darkorange;">Resume</a>
 <br>
  
 <br>
@@ -31,8 +29,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
 <br>
-[![Juhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan-Hossain&show_icons=true&theme=radical)](https://github.com/Juhan-Hossain/github-readme-stats)
-
+![Juhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhan-Hossain&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- TODO-IST:END -->
 
 
