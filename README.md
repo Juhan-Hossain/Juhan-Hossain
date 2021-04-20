@@ -18,8 +18,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 Ask me about anything, I am happy to help
 <br>
 - 📫 How to reach me: [@JuhanHossain](Juhanhossain@gmail.com)<br>
-- 📝 <a href="https://cutt.ly/3vAqeTW" style="background-color:darkorange;">Resume</a>
+- 📝 <div class="bg-yellow mb-2">
+  .text-gray-dark on .bg-yellow [Resume](https://cutt.ly/3vAqeTW)
+</div>
 <br>
+  
 **Languages and Tools:**  
 <br>
 <div class="myDiv" style="background-color:purple; width:170px">
