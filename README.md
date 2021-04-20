@@ -1,5 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left">Hi, I'm <a href="https://www.linkedin.com/in/juhan-hossain/" style="background-color:darkorange;">Juhan Hossain</a>, a passionate Web developer and a Competitive Programmer from Bangladesh.</p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>
 
 - :zap: I’m currently working on my idea project :wink:
 - :zap: I’m currently learning JavaScript, Angular Js
