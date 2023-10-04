@@ -5,15 +5,7 @@
 - :zap: I’m currently learning JavaScript, Angular Js
 <img align="center" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/source.gif" width="500" height="320" />
 
-### Connect with me:
 
-<a href="https://twitter.com/Juhan57846908">
-  <img align="left" alt="Juhan Hossain | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/juhan-hossain/">
-  <img align="left" alt="Juhan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
 
 ### To find out my problem solving experience [Click Here](https://www.stopstalk.com/user/profile/Juhan_hossain)
 
